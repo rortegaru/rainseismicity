@@ -6,6 +6,9 @@ figures/
 # External/manual catalogs (sensitive paths)
 data/external/
 
+# Raw downloaded catalogs (not processed)
+catalogoComunSV_*.csv
+
 # Python
 __pycache__/
 *.pyc
