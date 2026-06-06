@@ -1,0 +1,19 @@
+# Data — too large for GitHub; download with script 01
+data/
+results/
+figures/
+
+# External/manual catalogs (sensitive paths)
+data/external/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+*.egg-info/
