@@ -86,7 +86,7 @@ Download catalogs with `01_download_isc.py` before running subsequent scripts.
 ## Citation
 
 ```
-Ortega, R., Romero, G., Santillan, I., Carciumaru, D., Castro, J. D., & Petrescu, L. (2026).
+Ortega, R., Carciumaru, D. (2026).
 A hydrological regime framework for rainfall-triggered seismicity: Global screening
 with Impulse Contrast. Geophysical Research Letters.
 https://doi.org/[to-be-added]
